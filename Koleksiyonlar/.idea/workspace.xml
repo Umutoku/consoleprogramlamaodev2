@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c690a5ca-1130-4da4-8f85-00f9abb62844" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/.vs/ConsoleApp2/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/bin/Debug/net5.0/ref/ConsoleApp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/Debug/net5.0/ref/ConsoleApp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/obj/project.nuget.cache" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="24Px4ZsG7HIFCCtKXxFVco1DJ19" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1643545835585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643545835585</updated>
+      <workItem from="1643545835586" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>
